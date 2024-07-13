@@ -36,19 +36,18 @@ Benchmark against industry standards and historical data to facilitate budgeting
 ## 🛠 Technical & Soft Skills:
 
 ### Technical Skills:
+-Proficient in integrating supplementary data into existing models
 - Proficient in ETL (Extract, Transform, Load) processes
 - Skilled in creating date tables using Power Query
+- Skilled in using DAX for calculated columns creation
 - Capable of deriving fiscal months and quarters
 - Expert in establishing data model relationships with Power Pivot
-- Proficient in integrating supplementary data into existing models
-- Skilled in using DAX for calculated columns creation
+  
+
 
 ### Soft Skills:
-- Thorough understanding of sales and finance reports
-- Expertise in designing user-focused, empathetic reports
-- Proficient in optimizing report generation through fine-tuning
 - Developed a systematic approach for effective report planning
+- Thorough understanding of sales and finance reports
+- Proficient in optimizing report generation through fine-tuning
+- Expertise in designing user-focused, empathetic reports
 
----
-
-Feel free to further customize and adjust this section as needed!
