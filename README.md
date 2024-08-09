@@ -20,7 +20,7 @@ Uncover sales trends and track key performance indicators (KPIs) for better deci
 
 ### Project Goals:
 
-1. **Profit and Loss Analysis by Fiscal Year & Month:** Create detailed P&L reports categorized by fiscal year and month. [Fiscal Year](https://github.com/Niraj-Mittapelly/Excel_sales_analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf) | [Month](https://github.com/Niraj-Mittapelly/Excel_sales_analytics/blob/main/P%26L%20Statement%20by%20month.pdf)
+1. **Profit and Loss Analysis by Fiscal Year & Month:** Create detailed P&L reports categorized by fiscal year and month. [Fiscal Year](https://github.com/Niraj-Mittapelly/Sales-and-Finance-Analysis/blob/main/P%20%26%20L%20Statement%20by%20%20Fiscal%20Year.pdf) | [Month](https://github.com/Niraj-Mittapelly/Sales-and-Finance-Analysis/blob/main/P%20%26%20L%20Statement%20by%20%20Month.pdf)
 2. **Profit and Loss Analysis by Market:** Generate P&L reports segmented by various markets. [Check Report](https://github.com/Niraj-Mittapelly/Excel_sales_analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)
 
 ### Purpose:
